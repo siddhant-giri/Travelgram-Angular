@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angularproj1-2d654": {
+      "hosting": {
+        "travelgram": [
+          "angularproj1-2d654"
+        ]
+      }
+    }
+  }
+}
